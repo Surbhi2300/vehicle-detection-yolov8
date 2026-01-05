@@ -48,15 +48,6 @@ yolo detect predict model=models/best.pt source=data/raw_videos
 - Class labels and confidence scores
 - Works on real-world traffic data
 
-## 📸 Sample Results
-
-### Image Detection Output
-![Image Detection](screenshots/image_detection.png)
-
-### Video Detection Output
-![Video Detection](screenshots/video_detection.png)
-    
-
 
 ## Notes
 - Training outputs and datasets are excluded using .gitignore
