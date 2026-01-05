@@ -1,0 +1,18 @@
+# YOLO outputs
+runs/
+
+# Datasets (raw & processed)
+data/roboflow_dataset/
+data/raw_videos/
+data/raw_images/
+
+# Model weights (optional: keep best.pt only)
+models/*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
