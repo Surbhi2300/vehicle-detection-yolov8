@@ -1,0 +1,16 @@
+Vehicle-Detection/
+│
+├── models/
+│   └── best.pt          # Trained YOLOv8 model (ignored on GitHub)
+│
+├── data/
+│   ├── raw_images/      # Input images (ignored)
+│   ├── raw_videos/      # Input videos (ignored)
+│   └── roboflow_dataset/# Training dataset (ignored)
+│
+├── runs/                # YOLO outputs (ignored)
+├── yolov8n.pt           # Base YOLOv8 model
+├── commands.txt
+├── project_structure.txt
+├── README.md
+└── .gitignore
